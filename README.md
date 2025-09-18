@@ -1,13 +1,10 @@
 # 🔐 Security Toolkit
 
-A simple **Bash-based Security Toolkit** that lets you:
+A simple **Bash-based Security Toolkit**
 
 - ✅ Generate strong random passwords  
 - 🔒 Encrypt files with GPG  
 - 🔓 Decrypt files with GPG  
-
-Perfect for beginners who want to practice Linux scripting and security basics.
-
 ---
 
 ## 🚀 Features
